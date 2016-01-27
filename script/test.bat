@@ -1,1 +1,1 @@
-/node_modules\.bin\mocha.cmd test\test.js
+run node_modules\.bin\mocha.cmd test\test.js
